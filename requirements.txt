@@ -1,0 +1,2 @@
+streamlit, joblib, pandas, numpy
+pip install streamlit joblib pandas numpy
