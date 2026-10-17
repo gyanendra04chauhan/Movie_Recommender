@@ -8,7 +8,7 @@ A movie recommender built with **item-based collaborative filtering** on the Mov
 
 👉 **[Open the live app](https://movierecommender-26vynqh7jnaysdj8j7qycw.streamlit.app/)**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-e52d53?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_LIVE_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-e52d53?style=for-the-badge&logo=streamlit&logoColor=white)](https://movierecommender-26vynqh7jnaysdj8j7qycw.streamlit.app/)
 
 ## 📸 Screenshots
 
