@@ -152,5 +152,4 @@ __pycache__/
 **Gyanendra Chauhan**
 B.Tech CSE (AI & ML), Axis Institute of Technology and Management, Kanpur
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_PROFILE)
+
